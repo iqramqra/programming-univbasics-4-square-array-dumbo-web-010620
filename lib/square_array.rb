@@ -1,5 +1,5 @@
 def square_array(array)
-  counter = 0
-  while array[counter]do
-    puts
+  number = 0
+  while array[number]do
+    puts number**2
 end
